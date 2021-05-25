@@ -28,7 +28,9 @@ public class player_movement : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
         {
             isJumping = true;
+            animator.SetTrigger("doJumping");
         }
+
     }
 
     //Physics engine Updates
@@ -74,5 +76,15 @@ public class player_movement : MonoBehaviour
         rigid.AddForce(jumpVelocity, ForceMode2D.Impulse);
 
         isJumping = false;
+    }
+
+    void OnTriggerEnter2D(Colider2D other)
+    {
+        Debug.Log("Attach : " + other.gameObject.layer);
+    }
+
+    void OnTriggerExit2D(Colider2D other)
+    {
+        Debug.Log("Detach : " + other.gameObject.layer);
     }
 }
