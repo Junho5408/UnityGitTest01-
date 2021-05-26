@@ -29,6 +29,7 @@ public class player_movement : MonoBehaviour
         {
             isJumping = true;
             animator.SetTrigger("doJumping");
+            animator.SetBool("isJumping", true);
         }
 
     }
@@ -77,14 +78,19 @@ public class player_movement : MonoBehaviour
 
         isJumping = false;
     }
-
-    void OnTriggerEnter2D(Colider2D other)
+       
+    void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Attach : " + other.gameObject.layer);
+        if(other.gameObject.layer == 0 &&rigid.velocity.y < 0)
+        {
+            animator.SetBool("isJumping", false);
+        }
     }
 
-    void OnTriggerExit2D(Colider2D other)
+    void OnTriggerExit2D(Collider2D other)
     {
         Debug.Log("Detach : " + other.gameObject.layer);
     }
+       
 }
