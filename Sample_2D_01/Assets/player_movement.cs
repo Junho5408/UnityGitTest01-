@@ -25,7 +25,7 @@ public class player_movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && !animator.GetBool("isJumping"))
         {
             isJumping = true;
             animator.SetTrigger("doJumping");
@@ -82,9 +82,20 @@ public class player_movement : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Attach : " + other.gameObject.layer);
+        //Landing
         if(other.gameObject.layer == 0 &&rigid.velocity.y < 0)
         {
             animator.SetBool("isJumping", false);
+        }
+        //Get Coin
+        if(other.gameObject.tag == "Coin")
+        {
+            //Get Money
+            BlockStatus coin = other.gameObject.GetComponent<BlockStatus>();
+            moneyManager.setMoney((int)coin.value);
+
+            //Remove Object
+            Destroy(other.gameObject, 0f);
         }
     }
 
