@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Simple 2D Platformer BE2/Demo/Demo.unity
+- path: Assets/Scenes/StartStage.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
