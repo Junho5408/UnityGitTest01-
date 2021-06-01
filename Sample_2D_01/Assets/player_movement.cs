@@ -1,6 +1,8 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class player_movement : MonoBehaviour
 {
@@ -14,12 +16,25 @@ public class player_movement : MonoBehaviour
     Vector3 movement;
     bool isJumping = false;
 
+    public GameObject player;
+    Vector3 StartingPos;
+    Quaternion StartingRotate;
+    bool isStarted = false;
+    static bool isEnded = false;
+    static int stageLevel = 0;
+
 
     // Start is called before the first frame update
     void Start()
     {
         rigid = gameObject.GetComponent<Rigidbody2D>();
         animator = gameObject.GetComponentInChildren<Animator>();
+
+        StartingPos = GameObject.FindGameObjectWithTag("Start").transform.position;
+        StartingRotate = GameObject.FindGameObjectWithTag("Start").transform.rotation;
+
+        //if(stageLevel > 0)
+            //StartGame();
     }
 
     // Update is called once per frame
@@ -97,11 +112,29 @@ public class player_movement : MonoBehaviour
             //Remove Object
             Destroy(other.gameObject, 0f);
         }
+        if(other.gameObject.tag == "Finish"){
+            Debug.Log("Finish START");
+            EndGame();
+        }
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
         Debug.Log("Detach : " + other.gameObject.layer);
+    }
+
+    public static void EndGame()
+    {
+        //Stop Game
+        //Time.timeScale = 0f;
+
+        //Stage Set
+        //stageLevel++;
+
+        //if(stageLevel ==3)
+        //   isEnded = true;
+        //SceneManager.LoadScene("Stage01"); //Next Stage
+        SceneManager.LoadSceneAsync(1,LoadSceneMode.Single);
     }
        
 }

@@ -26,13 +26,13 @@ public class moneyManager : MonoBehaviour
 
         //Set the GUIStyle style to be label
         GUIStyle style = GUI.skin.GetStyle("label");
-        style.fontSize = (int)(50.0f);
+        style.fontSize = (int)(20.0f);
 
         //Create a label and display with the current settings
         GUI.Label(new Rect(10, 10, 500, 200), "Money : "+money.ToString());
 
 
-        style.fontSize = (int)(50.0f);
+        style.fontSize = (int)(20.0f);
         GUI.Label(new Rect(10, 60, 500, 200), "STAGE " + stageLevel.ToString());
 
     }

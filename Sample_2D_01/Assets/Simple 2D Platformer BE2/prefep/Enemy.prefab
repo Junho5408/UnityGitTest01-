@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 3466747044267337671}
   - component: {fileID: 3466747044267337670}
   - component: {fileID: 3466747044267337669}
+  - component: {fileID: 7204896790663427256}
+  - component: {fileID: 1288007146}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -121,3 +123,35 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: -0.06}
   m_Size: {x: 0.7, y: 0.8}
   m_Direction: 0
+--- !u!114 &7204896790663427256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3466747044267337668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30545523f830d884a84c605dbe014527, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movePower: 1
+--- !u!95 &1288007146
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3466747044267337668}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 07803518ff0e7f9429cbf4369a6c735b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
