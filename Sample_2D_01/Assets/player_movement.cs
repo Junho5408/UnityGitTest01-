@@ -23,6 +23,9 @@ public class player_movement : MonoBehaviour
     static bool isEnded = false;
     static int stageLevel = 0;
 
+    bool isAttack = false;
+    CapsuleCollider2D cap;
+
 
     // Start is called before the first frame update
     void Start()
@@ -45,6 +48,13 @@ public class player_movement : MonoBehaviour
             isJumping = true;
             animator.SetTrigger("doJumping");
             animator.SetBool("isJumping", true);
+        }
+        if(Input.GetButtonDown("Fire1") && !animator.GetBool("isAttacking"))
+        {
+            Debug.Log("Fire1 keydown");
+            isAttack = true;
+            animator.SetTrigger("Attack");
+            //animator.SetBool("isAttack", true);
         }
 
     }
@@ -76,6 +86,15 @@ public class player_movement : MonoBehaviour
             transform.localScale = new Vector3(1, 1, 1);
             animator.SetBool("isMoving", true);
         }
+        if(Input.GetKeyDown(KeyCode.DownArrow))
+        {
+            //Debug.Log("KeyCode.DownArrow");
+            cap = gameObject.GetComponent<CapsuleCollider2D>();
+            cap.size.Set((float)0.9,(float)0.6);
+            cap.offset.Set((float)0,-(float)0.2);
+            animator.SetBool("isMoving", true);
+
+        }
 
         transform.position += moveVelocity * movePower * Time.deltaTime;
     }
@@ -96,7 +115,7 @@ public class player_movement : MonoBehaviour
        
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Attach : " + other.gameObject.layer);
+        //Debug.Log("Attach : " + other.gameObject.layer);
         //Landing
         if(other.gameObject.layer == 0 &&rigid.velocity.y < 0)
         {
@@ -113,14 +132,14 @@ public class player_movement : MonoBehaviour
             Destroy(other.gameObject, 0f);
         }
         if(other.gameObject.tag == "Finish"){
-            Debug.Log("Finish START");
+            //Debug.Log("Finish START");
             EndGame();
         }
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
-        Debug.Log("Detach : " + other.gameObject.layer);
+        //Debug.Log("Detach : " + other.gameObject.layer);
     }
 
     public static void EndGame()
