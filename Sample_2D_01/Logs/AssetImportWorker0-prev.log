@@ -1,0 +1,2149 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'ko' Physical Memory: 16221 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/준호/Documents/GitHub/UnityGitTest01-/Sample_2D_01
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56140
+Successfully changed project path to: C:/Users/준호/Documents/GitHub/UnityGitTest01-/Sample_2D_01
+C:/Users/준호/Documents/GitHub/UnityGitTest01-/Sample_2D_01
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/준호/Documents/GitHub/UnityGitTest01-/Sample_2D_01/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.5296
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.149842 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.750 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.064714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.733 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1820 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.7 MB.
+System memory in use after: 107.7 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 2.317700 ms (FindLiveObjects: 0.208700 ms CreateObjectMapping: 0.089500 ms MarkObjects: 1.867200 ms  DeleteObjects: 0.150300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock5.png
+  artifactKey: Guid(b616df0eb9aeba946a1e715be74d1244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock5.png using Guid(b616df0eb9aeba946a1e715be74d1244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdea2fb20d6251e2642203302cec9e20') in 0.170922 seconds
+  Import took 0.174320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/Background.png
+  artifactKey: Guid(e58964ccdd4179f498b7eaa1b34c30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/Background.png using Guid(e58964ccdd4179f498b7eaa1b34c30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a15e1296e14a85cb213830c1f84112e') in 0.032092 seconds
+  Import took 0.036461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock2.png
+  artifactKey: Guid(65bcd8ef1e6d34e4c85d41d170a91f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock2.png using Guid(65bcd8ef1e6d34e4c85d41d170a91f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b32319b07bdf10eaf62a0f0faaf619') in 0.036491 seconds
+  Import took 0.040256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/Background.png
+  artifactKey: Guid(e58964ccdd4179f498b7eaa1b34c30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/Background.png using Guid(e58964ccdd4179f498b7eaa1b34c30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a15e1296e14a85cb213830c1f84112e') in 0.035134 seconds
+  Import took 0.038719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon
+  artifactKey: Guid(b414d14acce912241b19996535a6dd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon using Guid(b414d14acce912241b19996535a6dd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949568d194f28627f77033d1d3befe4b') in 0.013480 seconds
+  Import took 0.018312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock3.png
+  artifactKey: Guid(1d9b1afce69032f4dbb51dc37344236a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock3.png using Guid(1d9b1afce69032f4dbb51dc37344236a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55052daaae2430799f78345ffc6101e7') in 0.035647 seconds
+  Import took 0.039652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/myst.png
+  artifactKey: Guid(74c5389df5b8c3c4cbfb81a547b3b780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/myst.png using Guid(74c5389df5b8c3c4cbfb81a547b3b780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6608b38800d91601630b76d1f4bc7b') in 0.033984 seconds
+  Import took 0.039076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright
+  artifactKey: Guid(30e842f25dbc0ed43994697214b3cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright using Guid(30e842f25dbc0ed43994697214b3cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b170601ebeb8e194091828906ed8a8') in 0.014432 seconds
+  Import took 0.019439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/bg.png
+  artifactKey: Guid(63c2f6168fc8e2a43979d14d432290a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/bg.png using Guid(63c2f6168fc8e2a43979d14d432290a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe5aa521ce1c9be614718dab45cc37f5') in 0.031642 seconds
+  Import took 0.035554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock1.png
+  artifactKey: Guid(c5b185b4224039349a563fee111c8ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Bright/rock1.png using Guid(c5b185b4224039349a563fee111c8ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef52a247f337cc37adcebb8e9f74d3d8') in 0.042997 seconds
+  Import took 0.047781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background
+  artifactKey: Guid(e9974cccdeed9334a90a00dd5c6ed8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background using Guid(e9974cccdeed9334a90a00dd5c6ed8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166c4c6e515e647d127a83374893cbd5') in 0.013004 seconds
+  Import took 0.016688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.027000 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3cabd136be51d6ff01499f65f170ad') in 0.014532 seconds
+  Import took 0.017160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005716 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3cabd136be51d6ff01499f65f170ad') in 0.011759 seconds
+  Import took 0.014678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.968029 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/Background.png
+  artifactKey: Guid(7b9566a6f185c9947abccfd388391d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/Background.png using Guid(7b9566a6f185c9947abccfd388391d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7152138d168357492266cc9040bcd3') in 0.027275 seconds
+  Import took 0.030682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock2.png
+  artifactKey: Guid(d2ec37aa1edd1ed478c5354d20e7a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock2.png using Guid(d2ec37aa1edd1ed478c5354d20e7a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa79a8279dc36bd73e165331926121e0') in 0.024678 seconds
+  Import took 0.027580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock3.png
+  artifactKey: Guid(01578e241a0f22f48ae4e65411b704aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock3.png using Guid(01578e241a0f22f48ae4e65411b704aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0721e41b96e117a222fc30968308e4') in 0.031109 seconds
+  Import took 0.035626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/myst.png
+  artifactKey: Guid(1780e94993f8f77419dcf130518790ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/myst.png using Guid(1780e94993f8f77419dcf130518790ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd1851b26917229a80366b49a3df87c6') in 0.029284 seconds
+  Import took 0.032454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/bg.png
+  artifactKey: Guid(37971c852a459a641a0de0505eaf126d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/bg.png using Guid(37971c852a459a641a0de0505eaf126d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88b40c2b8d3fbc3928627f2d4c27106') in 0.024544 seconds
+  Import took 0.027784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock5.png
+  artifactKey: Guid(d8f15e9832aa3384eb27b1daa6206c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock5.png using Guid(d8f15e9832aa3384eb27b1daa6206c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc19ce3a61033c48d6311385ad3b13e') in 0.032536 seconds
+  Import took 0.035411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock1.png
+  artifactKey: Guid(d071fb7103718fd46bbfb229478339ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock1.png using Guid(d071fb7103718fd46bbfb229478339ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94a52377954bb5f13a1e5bed3447e87') in 0.029614 seconds
+  Import took 0.032620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001804 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock1.png
+  artifactKey: Guid(d071fb7103718fd46bbfb229478339ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Background/Pale/rock1.png using Guid(d071fb7103718fd46bbfb229478339ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94a52377954bb5f13a1e5bed3447e87') in 0.034389 seconds
+  Import took 0.038018 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002012 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.139 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.8 MB.
+System memory in use after: 110.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 2.553100 ms (FindLiveObjects: 0.218200 ms CreateObjectMapping: 0.082400 ms MarkObjects: 2.123300 ms  DeleteObjects: 0.127900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.935849 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/bridge1.png
+  artifactKey: Guid(28fb0f70dee029444a147ba5874f8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/bridge1.png using Guid(28fb0f70dee029444a147ba5874f8d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa8a75c9bb6aa3e1dd9467bb3388205') in 0.061327 seconds
+  Import took 0.064109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_3.png
+  artifactKey: Guid(0b624d3cfbe94bc4a8c88e26d6d5d5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_3.png using Guid(0b624d3cfbe94bc4a8c88e26d6d5d5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89120ba14ad960520249d560fb4b32eb') in 0.028252 seconds
+  Import took 0.030833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum6.png
+  artifactKey: Guid(b8c34db62e6d4644fb3565b01021b4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum6.png using Guid(b8c34db62e6d4644fb3565b01021b4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9a0b8d671e653cdc50dbb5d4203f08') in 0.027266 seconds
+  Import took 0.030453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum1.png
+  artifactKey: Guid(004153cc624dad7428d0f5264f15a62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum1.png using Guid(004153cc624dad7428d0f5264f15a62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66aa8251650abde2bb3d5173ed2c4355') in 0.027513 seconds
+  Import took 0.030481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite2.png
+  artifactKey: Guid(d1e94335527e1e140a7f374f84a478c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite2.png using Guid(d1e94335527e1e140a7f374f84a478c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ebb19c555c4b390aa1486e7100fc84c') in 0.025351 seconds
+  Import took 0.028287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_2.png
+  artifactKey: Guid(d18760902369d874ebb84ad32266308c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_2.png using Guid(d18760902369d874ebb84ad32266308c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a14daba977603685e2c891bb07e3b1c') in 0.032051 seconds
+  Import took 0.035627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_7.png
+  artifactKey: Guid(2cc1081beb75c1a43a4a7acb2955aac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_7.png using Guid(2cc1081beb75c1a43a4a7acb2955aac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2c3fbf6a054551d06b49cf1f08745e') in 0.025400 seconds
+  Import took 0.028836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_2.png
+  artifactKey: Guid(e475e3f43a0b56c4ba2145ede586c059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_2.png using Guid(e475e3f43a0b56c4ba2145ede586c059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab6eca4c042d31506e6635337f7411d') in 0.034101 seconds
+  Import took 0.038147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_9.png
+  artifactKey: Guid(3933a9a59ccbac5458ade9703170894c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_9.png using Guid(3933a9a59ccbac5458ade9703170894c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7559e464bb45a0a45ac438a0a72e54a8') in 0.029885 seconds
+  Import took 0.033881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum5.png
+  artifactKey: Guid(1e3673a83803d8d49b2cdab1da03a6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum5.png using Guid(1e3673a83803d8d49b2cdab1da03a6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f7a8aa5d5634d6f933b01c16e0017e') in 0.030879 seconds
+  Import took 0.034269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite3.png
+  artifactKey: Guid(a0f66ff48c8e6784c9deb4fe9e70c466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite3.png using Guid(a0f66ff48c8e6784c9deb4fe9e70c466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59c472aeb3175d4aa68ac07f59ddbfa') in 0.026798 seconds
+  Import took 0.030295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_1.png
+  artifactKey: Guid(55a6b3d19c490cc44b017c154d3d011d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_1.png using Guid(55a6b3d19c490cc44b017c154d3d011d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf2a16364271eea4e03c619c6b9e34e') in 0.030435 seconds
+  Import took 0.033993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_1.png
+  artifactKey: Guid(0c7e022ad18d70b44b9edce08b75f290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_1.png using Guid(0c7e022ad18d70b44b9edce08b75f290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c13fcec99412cc741f6caed8650688') in 0.025882 seconds
+  Import took 0.030215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue4.png
+  artifactKey: Guid(472e72a94f849de4b990c056c6764269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue4.png using Guid(472e72a94f849de4b990c056c6764269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa982db625279d00e2fd84052fcac068') in 0.033683 seconds
+  Import took 0.037824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_3.png
+  artifactKey: Guid(b3653c70256adac4894d7ad0ccb93b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_3.png using Guid(b3653c70256adac4894d7ad0ccb93b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0a4effba82e17cc8fdd4682189ebcc') in 0.026177 seconds
+  Import took 0.030136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_4.png
+  artifactKey: Guid(54ada3a41ec3dc44db9ab879b1361cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_4.png using Guid(54ada3a41ec3dc44db9ab879b1361cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ff49f75fed79e207b22f59348affa8') in 0.029855 seconds
+  Import took 0.033808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_5.png
+  artifactKey: Guid(fdb4c82353d921245b1701c90e290ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_5.png using Guid(fdb4c82353d921245b1701c90e290ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41fb8b167dacd6ba5237125a7ed2f5a') in 0.028331 seconds
+  Import took 0.032555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/hole2.png
+  artifactKey: Guid(2d4adc6fa3f86844d9d18d546a4e0638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/hole2.png using Guid(2d4adc6fa3f86844d9d18d546a4e0638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9f0b6d73d93b0fd8fafa7247ec60e11') in 0.033911 seconds
+  Import took 0.038932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum3.png
+  artifactKey: Guid(84d7237cc10e2fd47aa32c241331567f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum3.png using Guid(84d7237cc10e2fd47aa32c241331567f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a411b8088ef4ea224da711f2a6d367') in 0.034467 seconds
+  Import took 0.039373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_1.png
+  artifactKey: Guid(af36984ce75cc414e92145f7e72c07ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_1.png using Guid(af36984ce75cc414e92145f7e72c07ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9d034e980258d45691076ed2dbae75') in 0.038508 seconds
+  Import took 0.046185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_9.png
+  artifactKey: Guid(da1c3f76874c7fa4283591a0628b85da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_9.png using Guid(da1c3f76874c7fa4283591a0628b85da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4aeba420032dfde562165475af88d7') in 0.032422 seconds
+  Import took 0.039524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_4.png
+  artifactKey: Guid(5ad946ae651e29244b73a40a75ecb5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_4.png using Guid(5ad946ae651e29244b73a40a75ecb5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd08413861bf23f5576f106e8899e8955') in 0.035696 seconds
+  Import took 0.040490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stair2.png
+  artifactKey: Guid(b4fedc25bdf559646af884cd08acc61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stair2.png using Guid(b4fedc25bdf559646af884cd08acc61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4f82dbc214835ebec35bea04b5dc3f') in 0.033776 seconds
+  Import took 0.039665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_8.png
+  artifactKey: Guid(c913755f0d117414abb46a28545dd3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_8.png using Guid(c913755f0d117414abb46a28545dd3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ba571aa8a5a5f7c2b0e8993f72316c') in 0.039619 seconds
+  Import took 0.045485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/bridge2.png
+  artifactKey: Guid(9467db906ffeb0f4588cd1d09e1de6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/bridge2.png using Guid(9467db906ffeb0f4588cd1d09e1de6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3191ac226f36a9e5fd08ff97845efc8a') in 0.034129 seconds
+  Import took 0.039594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite1.png
+  artifactKey: Guid(b674e472bcc0d314a9b1d2bd22a0c536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite1.png using Guid(b674e472bcc0d314a9b1d2bd22a0c536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22760ac55bbe19a2a942da429605f490') in 0.034877 seconds
+  Import took 0.040281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite3.png
+  artifactKey: Guid(4ac0027be507fb94eabedc1b3270c967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite3.png using Guid(4ac0027be507fb94eabedc1b3270c967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81823d8843357392215229afb6f85f1') in 0.040607 seconds
+  Import took 0.045784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_3.png
+  artifactKey: Guid(cc379338dd369f146a5f4747649c00a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_3.png using Guid(cc379338dd369f146a5f4747649c00a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1284bfdce4666f3e62872c6681bb9e') in 0.039943 seconds
+  Import took 0.045777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_3.png
+  artifactKey: Guid(d892e810e8b8aa345a190712c87a4197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_3.png using Guid(d892e810e8b8aa345a190712c87a4197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3311d46f704db5033f6712a3de753cb2') in 0.045799 seconds
+  Import took 0.052208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum2.png
+  artifactKey: Guid(1e5b5df73cc634349b0c5b34f3d9e119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum2.png using Guid(1e5b5df73cc634349b0c5b34f3d9e119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328c690fa103660970ae6f137248b2e3') in 0.044677 seconds
+  Import took 0.050800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_1.png
+  artifactKey: Guid(2085b60bd40af1a4b8764ce134016780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_1.png using Guid(2085b60bd40af1a4b8764ce134016780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '288edb2636b315ef710ccf97944fc9b4') in 0.042358 seconds
+  Import took 0.048477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue1.png
+  artifactKey: Guid(ed0dfb505b2231f489c67e2f95af343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue1.png using Guid(ed0dfb505b2231f489c67e2f95af343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84645489c22e06af0d6bbebf730a06f') in 0.043229 seconds
+  Import took 0.049328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_2.png
+  artifactKey: Guid(13c868c80c64e6c42b6283e3830d9294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch1_2.png using Guid(13c868c80c64e6c42b6283e3830d9294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991883a1d78bcabeca14248aa8f01bf5') in 0.041061 seconds
+  Import took 0.046620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite1.png
+  artifactKey: Guid(92b99214d7a7fd94285efbe641630e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite1.png using Guid(92b99214d7a7fd94285efbe641630e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0cc2c583622bd90314530438b0559b') in 0.039097 seconds
+  Import took 0.044530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagnate1.png
+  artifactKey: Guid(c2929e1d9487ad54badbb796a9e65206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagnate1.png using Guid(c2929e1d9487ad54badbb796a9e65206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b25f7256b2561737d11297a3e2de719') in 0.038232 seconds
+  Import took 0.043193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/bridge3.png
+  artifactKey: Guid(47a49c73eb405e6439329624da618351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/bridge3.png using Guid(47a49c73eb405e6439329624da618351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c29e72a22bbead603dfd331596f9f2') in 0.035747 seconds
+  Import took 0.040965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stair3.png
+  artifactKey: Guid(db86efbc25cc6b0418efc35edbe816c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stair3.png using Guid(db86efbc25cc6b0418efc35edbe816c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08e272855205f4664053da48360424a') in 0.037346 seconds
+  Import took 0.042882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite4.png
+  artifactKey: Guid(cdb935d25491e994cb66d27a3357f1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite4.png using Guid(cdb935d25491e994cb66d27a3357f1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f92478bf72f7bd77ae2e38464c92cd60') in 0.037063 seconds
+  Import took 0.042349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_6.png
+  artifactKey: Guid(73e43d83687f79b4f9c5df0a1578ba8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_6.png using Guid(73e43d83687f79b4f9c5df0a1578ba8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7558bdae2b919720866d0951b9dec4cc') in 0.037233 seconds
+  Import took 0.042357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000615 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_2.png
+  artifactKey: Guid(b777b1c05b9274a4ab4d2f83270d971a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_2.png using Guid(b777b1c05b9274a4ab4d2f83270d971a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6e7fa61a95f3479351a33309c6f640') in 0.038277 seconds
+  Import took 0.043651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/hole1.png
+  artifactKey: Guid(947042f3cf64ccd4587b096b06f843ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/hole1.png using Guid(947042f3cf64ccd4587b096b06f843ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9959667f0f3c9c7e050c78b613a6f8bf') in 0.034953 seconds
+  Import took 0.039937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue2.png
+  artifactKey: Guid(657c5426724ba5544b2ef4f2bca1e52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue2.png using Guid(657c5426724ba5544b2ef4f2bca1e52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4263c1479873dcca21165d0bd7ade063') in 0.036467 seconds
+  Import took 0.041455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_8.png
+  artifactKey: Guid(6709398717637fd418e6cfaa5ddbc84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_8.png using Guid(6709398717637fd418e6cfaa5ddbc84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce9dc632251ff20ab1d2f43e48150dc') in 0.037215 seconds
+  Import took 0.042509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_5.png
+  artifactKey: Guid(2f026c1046cb87b4e9007855122fc62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_5.png using Guid(2f026c1046cb87b4e9007855122fc62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d149a20fd9885142a414fa15d9445fc') in 0.035934 seconds
+  Import took 0.041395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_8.png
+  artifactKey: Guid(e81e711bccc81d649b0309cb9666a53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_8.png using Guid(e81e711bccc81d649b0309cb9666a53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f896eae8a515fc976bae171d7b32e1') in 0.036742 seconds
+  Import took 0.041765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagnate2.png
+  artifactKey: Guid(a33c1ce9eebdd314482fa93b596210e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagnate2.png using Guid(a33c1ce9eebdd314482fa93b596210e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf63d256117d14b64965434912cea279') in 0.043763 seconds
+  Import took 0.049969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite2.png
+  artifactKey: Guid(4eea2df28e307fa4fab960f4d1148d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite2.png using Guid(4eea2df28e307fa4fab960f4d1148d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63573a8215361dc7fe2b565d27091d0d') in 0.037814 seconds
+  Import took 0.043051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_5.png
+  artifactKey: Guid(d119f7408820dec45b6a5b39cdd80711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_5.png using Guid(d119f7408820dec45b6a5b39cdd80711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3d7ef885194b1ebecddc413f78a41c') in 0.036887 seconds
+  Import took 0.043286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum4.png
+  artifactKey: Guid(68869416cacc7304bbe1ed1f0716f513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum4.png using Guid(68869416cacc7304bbe1ed1f0716f513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094459d0f848596774a2c7b5cccbda57') in 0.039043 seconds
+  Import took 0.046396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_6.png
+  artifactKey: Guid(49770ea0905437c4b8db93ab29b709b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_6.png using Guid(49770ea0905437c4b8db93ab29b709b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0196e1ab157c6b39551ac8154174c08') in 0.038399 seconds
+  Import took 0.045271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_3.png
+  artifactKey: Guid(f8472b09b5c3d46479e79fa77d0fe005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_3.png using Guid(f8472b09b5c3d46479e79fa77d0fe005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94df84603470471afe23f765535dfc3') in 0.040122 seconds
+  Import took 0.046185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_7.png
+  artifactKey: Guid(5f5a9bef1ad21ba4baccac338350bd13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop3_7.png using Guid(5f5a9bef1ad21ba4baccac338350bd13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4e0cef2916564a9ebe2c5fd366f145') in 0.037930 seconds
+  Import took 0.044040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_6.png
+  artifactKey: Guid(83e5c4bd5b97da546947097b64a70d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_6.png using Guid(83e5c4bd5b97da546947097b64a70d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf69d46f39d3651258e31d158692ca22') in 0.040096 seconds
+  Import took 0.045197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite4.png
+  artifactKey: Guid(8151ebc235422034bbf0e71c2e821725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite4.png using Guid(8151ebc235422034bbf0e71c2e821725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da83aff6882f36cf890cf1cd56753cb') in 0.040617 seconds
+  Import took 0.045910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum7.png
+  artifactKey: Guid(4c5a5d16020a4e24cb743cb4f3c59e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/mushrum7.png using Guid(4c5a5d16020a4e24cb743cb4f3c59e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c918e8de4391bdfeb9b2c077baef66') in 0.044605 seconds
+  Import took 0.050706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_4.png
+  artifactKey: Guid(dca128736554b8e4c80ed54f165d12df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_4.png using Guid(dca128736554b8e4c80ed54f165d12df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509405269a53e0d4cfab738bfd98af41') in 0.042294 seconds
+  Import took 0.048466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/chest.png
+  artifactKey: Guid(39bcff1a74155884992d3dca3209d9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/chest.png using Guid(39bcff1a74155884992d3dca3209d9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9c1eb0bb678033ac099173ae0eb17e') in 0.035570 seconds
+  Import took 0.041447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_9.png
+  artifactKey: Guid(05a24323394f1404a8d33578622eae86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_9.png using Guid(05a24323394f1404a8d33578622eae86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30de7abadba570f56f68bda124114801') in 0.041335 seconds
+  Import took 0.047560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_1.png
+  artifactKey: Guid(66ab731430c00cc49a5e1b066268bf25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop1_1.png using Guid(66ab731430c00cc49a5e1b066268bf25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761871696f4f4424fa0e9e0c75e78d08') in 0.042302 seconds
+  Import took 0.049137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_7.png
+  artifactKey: Guid(f0fb6a8fdc4c6bd4697181d1af0e18a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_7.png using Guid(f0fb6a8fdc4c6bd4697181d1af0e18a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5395c19aeafb229550543f05729f2d0f') in 0.052785 seconds
+  Import took 0.060189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite5.png
+  artifactKey: Guid(b824b2af49382d74f940c7e5e8e4092e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalactite5.png using Guid(b824b2af49382d74f940c7e5e8e4092e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490c469a127eb2f2b3e03cd8db9d27ca') in 0.041490 seconds
+  Import took 0.047071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap3.png
+  artifactKey: Guid(9972828c772e14144acdd1f762977141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap3.png using Guid(9972828c772e14144acdd1f762977141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7ef092f73e48ce6dc89abc7446a9e1') in 0.044856 seconds
+  Import took 0.050090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap4.png
+  artifactKey: Guid(3c667de8db881f845b71b33b976f9075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap4.png using Guid(3c667de8db881f845b71b33b976f9075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3dd52fb47a4f9f5aa1ccc0051cd666') in 0.053821 seconds
+  Import took 0.059553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_2.png
+  artifactKey: Guid(c471e914a8e71b347b9d4b0cd5d5fb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_2.png using Guid(c471e914a8e71b347b9d4b0cd5d5fb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0af0531bf8f1687e209fa2a2c03f9f3') in 0.049815 seconds
+  Import took 0.056152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_4.png
+  artifactKey: Guid(45d5f33d4b9a5fc46a9973dbe9125c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_4.png using Guid(45d5f33d4b9a5fc46a9973dbe9125c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969e26316e04bf020fea86262854362a') in 0.046196 seconds
+  Import took 0.052163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap6.png
+  artifactKey: Guid(fcff6cae1a3022b4c9dbe12aae33fb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap6.png using Guid(fcff6cae1a3022b4c9dbe12aae33fb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6d5d06a528c0b30785e659af193798') in 0.040828 seconds
+  Import took 0.046841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_3.png
+  artifactKey: Guid(0af7ac28497f42c41a4a1811b6a9db20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch3_3.png using Guid(0af7ac28497f42c41a4a1811b6a9db20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecd1d4312bdbf83d45ea1fc50a4e3c5') in 0.041965 seconds
+  Import took 0.047704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap2.png
+  artifactKey: Guid(83621cb4a98ef1c49adb81a7cd18dd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap2.png using Guid(83621cb4a98ef1c49adb81a7cd18dd47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea194397604209af18b1cbc5f6ff5ae5') in 0.042393 seconds
+  Import took 0.048629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite5.png
+  artifactKey: Guid(6122af4cfab9b2243a27d5662a5f4e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagmite5.png using Guid(6122af4cfab9b2243a27d5662a5f4e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a02473625badc535148bedbdb1b9cf') in 0.038426 seconds
+  Import took 0.044353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_2.png
+  artifactKey: Guid(cf327157a6f3d12468ca54bf34e41fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_2.png using Guid(cf327157a6f3d12468ca54bf34e41fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae0383a706bb29099f39350ffd859f1') in 0.036230 seconds
+  Import took 0.042151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_1.png
+  artifactKey: Guid(aa7b67cb560a6f842996429e8a2a0c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_1.png using Guid(aa7b67cb560a6f842996429e8a2a0c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b8253de34ac5ce7a78bb94dfc3b69d') in 0.039045 seconds
+  Import took 0.044589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stair1.png
+  artifactKey: Guid(23d69a1e85615ab4ba00e303617a04d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stair1.png using Guid(23d69a1e85615ab4ba00e303617a04d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f82cecac0bbd8c021dd3fdc43bac6ef') in 0.035074 seconds
+  Import took 0.040130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap5.png
+  artifactKey: Guid(ac64f9d2cf3d1334d9d74fe0255e92a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap5.png using Guid(ac64f9d2cf3d1334d9d74fe0255e92a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b13ef82476813e3c8a8fa7e6cf09eb') in 0.041360 seconds
+  Import took 0.046526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/door.png
+  artifactKey: Guid(34e7040bd28c1514a8e860bdf84e64c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/door.png using Guid(34e7040bd28c1514a8e860bdf84e64c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50cebc842ed4fc03842ec01ef31366d') in 0.040106 seconds
+  Import took 0.045113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagnate3.png
+  artifactKey: Guid(87e1899d33bd9f9498f892603ca23844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/stalagnate3.png using Guid(87e1899d33bd9f9498f892603ca23844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9aa25a2fd9a99f82e799eb1f52c0a4f') in 0.040112 seconds
+  Import took 0.045397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap1.png
+  artifactKey: Guid(32f2a0b6271734a44adc55fc7e801366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/trap1.png using Guid(32f2a0b6271734a44adc55fc7e801366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6025c77d61eb13f1643042753b55180c') in 0.039585 seconds
+  Import took 0.044950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_4.png
+  artifactKey: Guid(d59b2035dbb014d4aa539c33a800edd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/lava_drop2_4.png using Guid(d59b2035dbb014d4aa539c33a800edd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000d6912b7ed2d2da9c50063cb759a53') in 0.034375 seconds
+  Import took 0.040438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue3.png
+  artifactKey: Guid(bd980fda764c39a438b96d5db719ba22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/marker_statue3.png using Guid(bd980fda764c39a438b96d5db719ba22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cd63f18cdafdcf6c4f375231ce802c') in 0.039311 seconds
+  Import took 0.044571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_4.png
+  artifactKey: Guid(a7f7a078f0a79d749a75bdd003c14ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Details/torch2_4.png using Guid(a7f7a078f0a79d749a75bdd003c14ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e0a8954cc3bbed2ea978639de5fb0c') in 0.036178 seconds
+  Import took 0.041746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.830921 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile1.png
+  artifactKey: Guid(a065c3392ddc50642a02e4e130f3c3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile1.png using Guid(a065c3392ddc50642a02e4e130f3c3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584946f2ee94c00f38f57c671c40fffe') in 0.025856 seconds
+  Import took 0.028742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile12.png
+  artifactKey: Guid(57dc05367d720474db793336767c0e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile12.png using Guid(57dc05367d720474db793336767c0e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d1234f7753e4e023eef2e044a5ef25') in 0.023560 seconds
+  Import took 0.026032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile8.png
+  artifactKey: Guid(8baa31be927a95248b7de6caa58c5dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile8.png using Guid(8baa31be927a95248b7de6caa58c5dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9811bade9b62c17a230ee50de2adf8e2') in 0.028628 seconds
+  Import took 0.031456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile2.png
+  artifactKey: Guid(c99b1c1e098705341a419bedee531ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile2.png using Guid(c99b1c1e098705341a419bedee531ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280b1ff9f1cadd1af4649d13b274f732') in 0.032833 seconds
+  Import took 0.035484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile5.png
+  artifactKey: Guid(71f07296b7bfac04e993dfb897aa2696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile5.png using Guid(71f07296b7bfac04e993dfb897aa2696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71fc48be3a355d9e47b7dd2b7573e5d') in 0.035121 seconds
+  Import took 0.037995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile7.png
+  artifactKey: Guid(6a4196d36b8ffc347a8602e46dd4ed90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile7.png using Guid(6a4196d36b8ffc347a8602e46dd4ed90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ee81e96ab29239843e70f3127dc948') in 0.030641 seconds
+  Import took 0.033657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile6.png
+  artifactKey: Guid(37934b9bc1bb5f74595c3ece26ce399c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile6.png using Guid(37934b9bc1bb5f74595c3ece26ce399c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '031ed84348826caf733857540450ec74') in 0.030668 seconds
+  Import took 0.033607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile10.png
+  artifactKey: Guid(1cef99185f7b8544c9958c54a8a254b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile10.png using Guid(1cef99185f7b8544c9958c54a8a254b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ffba3e79596dd587ff4e87678cdfe43') in 0.029117 seconds
+  Import took 0.032229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile4.png
+  artifactKey: Guid(1fb002a397846a141bd5efc8452d224c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile4.png using Guid(1fb002a397846a141bd5efc8452d224c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517b50ecd689207e4b0df119052fc18b') in 0.026508 seconds
+  Import took 0.029685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile14.png
+  artifactKey: Guid(cf5b33c7f4011d8498bbb7ce833e8c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile14.png using Guid(cf5b33c7f4011d8498bbb7ce833e8c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc43e3a6d3e7f4bf4d372a5f5b481a56') in 0.026821 seconds
+  Import took 0.030298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile13.png
+  artifactKey: Guid(ca4397fdc9faf464090fed4f3533b202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile13.png using Guid(ca4397fdc9faf464090fed4f3533b202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f56048c328c49360464dd78d46e92df') in 0.027080 seconds
+  Import took 0.030646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile3.png
+  artifactKey: Guid(353cb086b5db54c49afd1a84667761bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile3.png using Guid(353cb086b5db54c49afd1a84667761bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2119fb8d0f93c51f7dc7579bdd7a8993') in 0.026357 seconds
+  Import took 0.030228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile9.png
+  artifactKey: Guid(2772b0c6c7bf9af4dbf1888b1466b4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile9.png using Guid(2772b0c6c7bf9af4dbf1888b1466b4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edc2d70ca29af2b9fdeccce6ea56da8') in 0.027678 seconds
+  Import took 0.031944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile11.png
+  artifactKey: Guid(d1cff3168f3fe1e44b530760c9f3526d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/lava_tile11.png using Guid(d1cff3168f3fe1e44b530760c9f3526d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9714fcbb6f216c4f1cfe007f2c39b2f7') in 0.034025 seconds
+  Import took 0.037973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065422 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0000_crystal10.png
+  artifactKey: Guid(6d95b24fc880f0b48b7e831f2efc0461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0000_crystal10.png using Guid(6d95b24fc880f0b48b7e831f2efc0461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e50dfe37e59e3f64109cf1e6a053784') in 0.025283 seconds
+  Import took 0.029093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0017_star3.png
+  artifactKey: Guid(98386f9bfa4416d47bd75cc275c67738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0017_star3.png using Guid(98386f9bfa4416d47bd75cc275c67738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81734eae980905a18a478a874ef8d864') in 0.029878 seconds
+  Import took 0.033662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0061_heart5.png
+  artifactKey: Guid(fa4abbc083cb2ad479f9fbb10f790775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0061_heart5.png using Guid(fa4abbc083cb2ad479f9fbb10f790775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb971796f034c7d71b8de17d61a7bb1d') in 0.026577 seconds
+  Import took 0.031152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000690 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0047_hit_point9.png
+  artifactKey: Guid(73e70a46695654941bf96f93abe35c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0047_hit_point9.png using Guid(73e70a46695654941bf96f93abe35c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb92d2b87465a2dba5a0856734f539f') in 0.028156 seconds
+  Import took 0.032058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0007_crystal3.png
+  artifactKey: Guid(6f983d9486c8f8d4dbdaa913d145ac9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0007_crystal3.png using Guid(6f983d9486c8f8d4dbdaa913d145ac9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b788d305a00a6ecba801fb0b167b2d16') in 0.027171 seconds
+  Import took 0.031145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0044_coin2.png
+  artifactKey: Guid(dcfa533db75c0a74cb463b35adcd208a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0044_coin2.png using Guid(dcfa533db75c0a74cb463b35adcd208a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c05064e7595eea65434ae5ecba44fc1') in 0.027794 seconds
+  Import took 0.032075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0006_crystal4.png
+  artifactKey: Guid(618118e798f34634fa87dd65afe2f173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0006_crystal4.png using Guid(618118e798f34634fa87dd65afe2f173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439be67d7e6afb3c27c960f615f59a0c') in 0.030137 seconds
+  Import took 0.033899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000606 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0001_crystal9.png
+  artifactKey: Guid(44330c79675847f4cb1800ddbfa173c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0001_crystal9.png using Guid(44330c79675847f4cb1800ddbfa173c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdfefa7f1f1acf7802934cbeb306dc03') in 0.028059 seconds
+  Import took 0.032538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0008_crystal2.png
+  artifactKey: Guid(f1883c17332a0984c9417b198896a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0008_crystal2.png using Guid(f1883c17332a0984c9417b198896a873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac91ed6bf1fbbc7a5e5530e46719835') in 0.028856 seconds
+  Import took 0.033346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0049_hit_point7.png
+  artifactKey: Guid(fe7c61ed9e745934f855b8727a8fcac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0049_hit_point7.png using Guid(fe7c61ed9e745934f855b8727a8fcac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c097e680ca1e008ddcf737e6b9abd2') in 0.029872 seconds
+  Import took 0.034275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0025_speed11.png
+  artifactKey: Guid(9d9144acf65f60f46ae3dd0f991ede93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0025_speed11.png using Guid(9d9144acf65f60f46ae3dd0f991ede93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a17b19e69283cc5355f4beeee7ac532') in 0.029464 seconds
+  Import took 0.034175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0010_star10.png
+  artifactKey: Guid(3c5937979b45ed24a940fe7018abc9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0010_star10.png using Guid(3c5937979b45ed24a940fe7018abc9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c70419a35505761103b2883730672f1') in 0.031763 seconds
+  Import took 0.036071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0034_speed2.png
+  artifactKey: Guid(792e4f0c72d459841a7b35815a5b0b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0034_speed2.png using Guid(792e4f0c72d459841a7b35815a5b0b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce98706ce1e3b2cbbf3318e970749232') in 0.031175 seconds
+  Import took 0.035907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0038_coin8.png
+  artifactKey: Guid(1c7b7d92713b51c498a0108d94741fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0038_coin8.png using Guid(1c7b7d92713b51c498a0108d94741fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8650b892058509af2299da6338bba81') in 0.032808 seconds
+  Import took 0.036963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0045_coin.png
+  artifactKey: Guid(2781c5c0caf0c7740802ce18d9c019c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0045_coin.png using Guid(2781c5c0caf0c7740802ce18d9c019c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367267033a0190eb7a69c57f0e2035f3') in 0.029771 seconds
+  Import took 0.035205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0022_speed14.png
+  artifactKey: Guid(9d07fe2a4f9a79c4c957e46b48d19991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0022_speed14.png using Guid(9d07fe2a4f9a79c4c957e46b48d19991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f587ef89e9159b6dbeecab4d24fef9') in 0.030878 seconds
+  Import took 0.035775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0027_speed9.png
+  artifactKey: Guid(41527bdd710516a43880ddd46a73ba71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0027_speed9.png using Guid(41527bdd710516a43880ddd46a73ba71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517ecf6c4e0db7fc46e9cea2152554cf') in 0.030441 seconds
+  Import took 0.034628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0042_coin4.png
+  artifactKey: Guid(6f8ee9efa75e011439f33d00caf524f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0042_coin4.png using Guid(6f8ee9efa75e011439f33d00caf524f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d08491aee37c06c0706ea496dc0edd') in 0.032083 seconds
+  Import took 0.037223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0055_hit_point.png
+  artifactKey: Guid(bdae3aa22cf5af14ebc259bb41489cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0055_hit_point.png using Guid(bdae3aa22cf5af14ebc259bb41489cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881cf21c5f7d736f909c61405e05f4bb') in 0.034543 seconds
+  Import took 0.039995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0004_crystal6.png
+  artifactKey: Guid(f5b5ef0a08993a74b9d3220b1bd58534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0004_crystal6.png using Guid(f5b5ef0a08993a74b9d3220b1bd58534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1104932f10e9cf8de9ac7534a164e9a3') in 0.031138 seconds
+  Import took 0.036022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0023_speed13.png
+  artifactKey: Guid(f0021bf5b92907c42a36af36dd98a15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0023_speed13.png using Guid(f0021bf5b92907c42a36af36dd98a15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3912f0f1c0f054127175d1d8f9c85888') in 0.035069 seconds
+  Import took 0.039889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0029_speed7.png
+  artifactKey: Guid(1bf7d4eb79c58a74ba598ca0d7da7cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0029_speed7.png using Guid(1bf7d4eb79c58a74ba598ca0d7da7cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8555a9c9caffceb7dc06dd41b3a9d883') in 0.033418 seconds
+  Import took 0.038103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0019_star1.png
+  artifactKey: Guid(217f8b88861d63b4f96e87d5eac5649c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0019_star1.png using Guid(217f8b88861d63b4f96e87d5eac5649c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dd82b1931c33f43d1861491b2d02a5') in 0.035206 seconds
+  Import took 0.039893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0005_crystal5.png
+  artifactKey: Guid(200833a8c4ff9bc4386349f930b33f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0005_crystal5.png using Guid(200833a8c4ff9bc4386349f930b33f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a89678e50601e8dee489234e7352b79') in 0.037213 seconds
+  Import took 0.042479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0011_star9.png
+  artifactKey: Guid(22dae9f5b45341b43a7bdaf8868c35fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0011_star9.png using Guid(22dae9f5b45341b43a7bdaf8868c35fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866b966c00eb7faf88e9140b3e392a24') in 0.033098 seconds
+  Import took 0.037803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0056_heart10.png
+  artifactKey: Guid(40e2212d466072c47b808bb4646dcf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0056_heart10.png using Guid(40e2212d466072c47b808bb4646dcf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd17be5ae0012b7e9c9065862ae07e3e') in 0.032113 seconds
+  Import took 0.037313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0064_heart2.png
+  artifactKey: Guid(df31bc2925c0f094e9050b65f9858abc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0064_heart2.png using Guid(df31bc2925c0f094e9050b65f9858abc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4588b4ec12021c5e5df6edeafa4c6d') in 0.035617 seconds
+  Import took 0.041519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0015_star5.png
+  artifactKey: Guid(b7b775f17e0b84949a023f46f0d95233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0015_star5.png using Guid(b7b775f17e0b84949a023f46f0d95233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c956921fd997b48c3975e73d13dc176') in 0.034494 seconds
+  Import took 0.039341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0024_speed12.png
+  artifactKey: Guid(165a5c0e451b1f541b66441c0e4b93c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0024_speed12.png using Guid(165a5c0e451b1f541b66441c0e4b93c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7319008d84863285c6ca4d842df66cd3') in 0.038566 seconds
+  Import took 0.043437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0054_hit_point2.png
+  artifactKey: Guid(06aee649a30a7724495f2ba02ebf01a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0054_hit_point2.png using Guid(06aee649a30a7724495f2ba02ebf01a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd598a7b12efaf424edb30f4735937ad1') in 0.033200 seconds
+  Import took 0.038036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0030_speed6.png
+  artifactKey: Guid(8ab6698888673d74d913624178663b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0030_speed6.png using Guid(8ab6698888673d74d913624178663b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39df8bc929b3bbe4e232aa47e81e3d54') in 0.034943 seconds
+  Import took 0.039941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0065_heart.png
+  artifactKey: Guid(d6461ad85c6fab940b84ddacb3c98a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0065_heart.png using Guid(d6461ad85c6fab940b84ddacb3c98a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4c8a31b4963af56efbb3b6bcd87e00') in 0.036254 seconds
+  Import took 0.040819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0028_speed8.png
+  artifactKey: Guid(8818f6213a3b4ae4196a982aa7702e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0028_speed8.png using Guid(8818f6213a3b4ae4196a982aa7702e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09e8f14b411bbd80d4c0dcab74adeac') in 0.033541 seconds
+  Import took 0.038129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0062_heart4.png
+  artifactKey: Guid(f4866eb8459d200498bf27ea003e5017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0062_heart4.png using Guid(f4866eb8459d200498bf27ea003e5017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182b8c3d6595cf18c491c878ed3daba2') in 0.033200 seconds
+  Import took 0.038745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0063_heart3.png
+  artifactKey: Guid(99fe82beb8aa94f44a479209e035ce87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0063_heart3.png using Guid(99fe82beb8aa94f44a479209e035ce87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec997180ed36807343ef652a38289082') in 0.033097 seconds
+  Import took 0.037945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0051_hit_point5.png
+  artifactKey: Guid(37e1e617f8ace9c498b57b8aadd5f288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0051_hit_point5.png using Guid(37e1e617f8ace9c498b57b8aadd5f288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6fda55d6afc18a5668c3e3d44404f5a') in 0.032474 seconds
+  Import took 0.037155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0014_star6.png
+  artifactKey: Guid(c3c969d004f79aa4db898caef8bdc023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0014_star6.png using Guid(c3c969d004f79aa4db898caef8bdc023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25de3ab3807aacca0565233ef851a408') in 0.032761 seconds
+  Import took 0.037422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0037_coin9.png
+  artifactKey: Guid(e4f8bd271a944a1498de7eac00e07430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0037_coin9.png using Guid(e4f8bd271a944a1498de7eac00e07430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b62ad16d014fa436bf058055cc01c0') in 0.035908 seconds
+  Import took 0.041229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0043_coin3.png
+  artifactKey: Guid(4487e4fcd3e96a541bcd607d1917c65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0043_coin3.png using Guid(4487e4fcd3e96a541bcd607d1917c65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cab7433bb6cdb27335e085815b248c9') in 0.032936 seconds
+  Import took 0.037540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0050_hit_point6.png
+  artifactKey: Guid(8851af794a9c06a4a9aade4a59a358b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0050_hit_point6.png using Guid(8851af794a9c06a4a9aade4a59a358b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785a0091c64429746337883e7a3e84d3') in 0.035017 seconds
+  Import took 0.040636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0053_hit_point3.png
+  artifactKey: Guid(700907cf09bb46e48b4fc37ce7270886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0053_hit_point3.png using Guid(700907cf09bb46e48b4fc37ce7270886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fecefcc1e299ed8dc710bd60a5ef9a87') in 0.034262 seconds
+  Import took 0.039052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0059_heart7.png
+  artifactKey: Guid(7966ab77c63cea7479fb7dfbcf571455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0059_heart7.png using Guid(7966ab77c63cea7479fb7dfbcf571455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17da551021b2bd9cd38e82398c4ab5f') in 0.036468 seconds
+  Import took 0.042305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0013_star7.png
+  artifactKey: Guid(d106dfe7e8a0af247b6a5ffaca6ea541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0013_star7.png using Guid(d106dfe7e8a0af247b6a5ffaca6ea541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03de9e1e4d4b2df48cf92e25220ec10') in 0.035513 seconds
+  Import took 0.040733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0020_speed16.png
+  artifactKey: Guid(d386c5b07e427384fb0884d5cce63a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0020_speed16.png using Guid(d386c5b07e427384fb0884d5cce63a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c4e5a77b9c6dd4d741b66928721c3f') in 0.033902 seconds
+  Import took 0.038560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0032_speed4.png
+  artifactKey: Guid(af01a34a2dff8b94e98651c1605add36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0032_speed4.png using Guid(af01a34a2dff8b94e98651c1605add36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abccbf7ff4f1f757d281f4e4db57492b') in 0.035725 seconds
+  Import took 0.040764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0033_speed3.png
+  artifactKey: Guid(6de02e003a6dacd48bd4627346f46a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0033_speed3.png using Guid(6de02e003a6dacd48bd4627346f46a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c7b41098d6611b5b956aab89d5386a') in 0.037851 seconds
+  Import took 0.043110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0046_hit_point10.png
+  artifactKey: Guid(003690002aa34aa46b18425cdf184e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0046_hit_point10.png using Guid(003690002aa34aa46b18425cdf184e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d63d3c594c6c047eb117022fdc0626') in 0.035345 seconds
+  Import took 0.040250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0040_coin6.png
+  artifactKey: Guid(ef9311ebefc85744e8ef2d6f654c24f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0040_coin6.png using Guid(ef9311ebefc85744e8ef2d6f654c24f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0462bb7da9baf200240ed2609d69364f') in 0.036764 seconds
+  Import took 0.042611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0012_star8.png
+  artifactKey: Guid(180ca889de1a1624ba2431fcfce0dcda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0012_star8.png using Guid(180ca889de1a1624ba2431fcfce0dcda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e89bb3359ef3e62d79ee0898e08933') in 0.036973 seconds
+  Import took 0.042748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0039_coin7.png
+  artifactKey: Guid(234144f30559e23499c2f25e92e1445f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0039_coin7.png using Guid(234144f30559e23499c2f25e92e1445f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2105c0d66d9127d0081ee6a162859ce9') in 0.036307 seconds
+  Import took 0.041049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0041_coin5.png
+  artifactKey: Guid(770dccaa01c271a4a9604d4f6d115c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0041_coin5.png using Guid(770dccaa01c271a4a9604d4f6d115c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dcf02751ef01ee07fd9bc9d0d7283b') in 0.038505 seconds
+  Import took 0.043787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0060_heart6.png
+  artifactKey: Guid(a159d4a6d79eee64ca72f123170dec11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0060_heart6.png using Guid(a159d4a6d79eee64ca72f123170dec11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b2081dd1e20dcc5c343601f39385b0e') in 0.034633 seconds
+  Import took 0.040463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0052_hit_point4.png
+  artifactKey: Guid(af016a978da000d409a1496ee9057d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0052_hit_point4.png using Guid(af016a978da000d409a1496ee9057d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c1bf5677ea96f50e9ba0bcc11dd6caa') in 0.034459 seconds
+  Import took 0.039431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0057_heart9.png
+  artifactKey: Guid(05852d661d78cfa47a8bb4ed6f4da77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0057_heart9.png using Guid(05852d661d78cfa47a8bb4ed6f4da77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2abc937d7747c5c280e9b866d9e3395') in 0.037395 seconds
+  Import took 0.043230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0002_crystal8.png
+  artifactKey: Guid(ef7bb938ab9a7884aa3beaa9ea05f9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0002_crystal8.png using Guid(ef7bb938ab9a7884aa3beaa9ea05f9a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec88f4fe599db496564c84b92710ae3') in 0.035224 seconds
+  Import took 0.040134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0009_crystal.png
+  artifactKey: Guid(8c7c876a2e0264c45b4a049909feb945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0009_crystal.png using Guid(8c7c876a2e0264c45b4a049909feb945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6adcc3e201a9fff9b9f318e539c40fe') in 0.036174 seconds
+  Import took 0.041421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0018_star2.png
+  artifactKey: Guid(0df0c2531bf68ae4ca1eecf04f13c299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0018_star2.png using Guid(0df0c2531bf68ae4ca1eecf04f13c299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d09a3b67f6516c228cf95399d024603') in 0.036392 seconds
+  Import took 0.041084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0048_hit_point8.png
+  artifactKey: Guid(d3b5f144557a0784eb42dd38bfc3b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0048_hit_point8.png using Guid(d3b5f144557a0784eb42dd38bfc3b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5831319fc99e3bf888e6b40d8afb5268') in 0.032107 seconds
+  Import took 0.037122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile30.png
+  artifactKey: Guid(c18245a0e171f134d9de1ffdeea9e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile30.png using Guid(c18245a0e171f134d9de1ffdeea9e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90505579545ebe1822f470a330f8caf6') in 0.038820 seconds
+  Import took 0.043841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile34.png
+  artifactKey: Guid(0207f25547874884f9afc1fbc0ece113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile34.png using Guid(0207f25547874884f9afc1fbc0ece113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac31a4c445e56d769261431a0bdc4787') in 0.035535 seconds
+  Import took 0.040358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile20.png
+  artifactKey: Guid(6df92977c0c8fbd45ba0d146be0f6db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile20.png using Guid(6df92977c0c8fbd45ba0d146be0f6db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4b1b09dbab4fa9294fb079ee3f4f0d') in 0.035441 seconds
+  Import took 0.039945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile3.png
+  artifactKey: Guid(79720ecce71f1d24b83de512670e0d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile3.png using Guid(79720ecce71f1d24b83de512670e0d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac6f1508a71ff33416a921b12ce28d3') in 0.035170 seconds
+  Import took 0.040500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile23.png
+  artifactKey: Guid(6da2cdf8395e64f478976acb2dc24460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile23.png using Guid(6da2cdf8395e64f478976acb2dc24460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5f4b2c02c045719666bb4743c095fe') in 0.035883 seconds
+  Import took 0.040496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile31.png
+  artifactKey: Guid(6e896e568e0522f428c5bc3a3e6f2fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile31.png using Guid(6e896e568e0522f428c5bc3a3e6f2fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b043baf7c43aa3e4a3e8b5d004831c0') in 0.034021 seconds
+  Import took 0.038824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile2.png
+  artifactKey: Guid(0691e85caefbf304194484fe003d82df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile2.png using Guid(0691e85caefbf304194484fe003d82df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d9131f698ea51f302d40d62e8df3655') in 0.038670 seconds
+  Import took 0.043421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile19.png
+  artifactKey: Guid(3e178741077d1984fa672b655c32bb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile19.png using Guid(3e178741077d1984fa672b655c32bb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7201a813e5fb87aabceb2dec17d4295e') in 0.035296 seconds
+  Import took 0.039894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile35.png
+  artifactKey: Guid(33a1f70f8578e24499de2fd0c88ef222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile35.png using Guid(33a1f70f8578e24499de2fd0c88ef222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6eec600f0456e034e2beaa99bfffba') in 0.039536 seconds
+  Import took 0.044421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile24.png
+  artifactKey: Guid(cfdf739c2054a734e9e6e55e6b79e7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile24.png using Guid(cfdf739c2054a734e9e6e55e6b79e7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e98a6f635c5b85663b07ff5d5716083') in 0.036614 seconds
+  Import took 0.041773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile18.png
+  artifactKey: Guid(703c63558e5fd9e4299f9b3c74c77d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile18.png using Guid(703c63558e5fd9e4299f9b3c74c77d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53f5c4438a6527eae5f5525b3de0037') in 0.037075 seconds
+  Import took 0.042434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile36.png
+  artifactKey: Guid(32bd0aad758ea5945b584aaab5abb507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile36.png using Guid(32bd0aad758ea5945b584aaab5abb507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b57e31dd9c3211f980bc1f2ecd1e1e1') in 0.035038 seconds
+  Import took 0.041002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile9.png
+  artifactKey: Guid(5a8b13c12af52674fae8fae37f464cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile9.png using Guid(5a8b13c12af52674fae8fae37f464cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0150bae0d94405e15229faf9d326abaf') in 0.036089 seconds
+  Import took 0.041953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile1.png
+  artifactKey: Guid(6c4b707a463ccc74aaeb1014e69908bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile1.png using Guid(6c4b707a463ccc74aaeb1014e69908bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7f5ae50616af4f818358ab1943c9d7') in 0.034980 seconds
+  Import took 0.040006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile26.png
+  artifactKey: Guid(9a6af93d384860f41842ca46dfd6574f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile26.png using Guid(9a6af93d384860f41842ca46dfd6574f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a598dea2a4e170d43cc81021371ca9') in 0.038554 seconds
+  Import took 0.044125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile6.png
+  artifactKey: Guid(837d1c0574887a54ca646feca6aa4670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile6.png using Guid(837d1c0574887a54ca646feca6aa4670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7f434eaea3e83a2de6bf7ddda791eb') in 0.036821 seconds
+  Import took 0.041633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile15.png
+  artifactKey: Guid(a0c1b2c930237524aa1b75695d4eae56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile15.png using Guid(a0c1b2c930237524aa1b75695d4eae56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5753bb6938f4bcb792bf0ffa01f94732') in 0.040592 seconds
+  Import took 0.045891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile25.png
+  artifactKey: Guid(8eba3c0e0abb5c34fa912eb9cdcd4c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile25.png using Guid(8eba3c0e0abb5c34fa912eb9cdcd4c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be850d6398f03df8df6508970f56dab') in 0.043506 seconds
+  Import took 0.048831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile17.png
+  artifactKey: Guid(58e59a2f6fb76ed4f887a00ad82b5089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile17.png using Guid(58e59a2f6fb76ed4f887a00ad82b5089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd38d4be30443b4c6cc5a8a2d9b9410c') in 0.041894 seconds
+  Import took 0.048498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile11.png
+  artifactKey: Guid(ad969a4392c394149b08a65b0dfd486e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile11.png using Guid(ad969a4392c394149b08a65b0dfd486e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113adc0ad959b0615e1834f290c156f0') in 0.049279 seconds
+  Import took 0.054977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile33.png
+  artifactKey: Guid(a2150cef38e6e634989b766956eeefbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile33.png using Guid(a2150cef38e6e634989b766956eeefbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80f3bd0dad67c46fb236623abb968568') in 0.038094 seconds
+  Import took 0.043615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile10.png
+  artifactKey: Guid(5fbf27b5fe259be478a85f9d8112f419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile10.png using Guid(5fbf27b5fe259be478a85f9d8112f419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a8ae9672f74faf82a052791298c0f8') in 0.037537 seconds
+  Import took 0.043721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile16.png
+  artifactKey: Guid(30f3b0b3b92cc314fa36bef90c5dde41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile16.png using Guid(30f3b0b3b92cc314fa36bef90c5dde41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9ccf00d75b6ddfccd1c779a77371cd') in 0.041868 seconds
+  Import took 0.048407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile13.png
+  artifactKey: Guid(0abaa2aee6459e3478d856d8fe29cc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile13.png using Guid(0abaa2aee6459e3478d856d8fe29cc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb2be66c41da54f22740985938afb3f') in 0.042008 seconds
+  Import took 0.047846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile27.png
+  artifactKey: Guid(042ba441476666841ac61d6accab2937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile27.png using Guid(042ba441476666841ac61d6accab2937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecba58166c77e822d2249730bf44bfb0') in 0.042367 seconds
+  Import took 0.048059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile32.png
+  artifactKey: Guid(cc401b6f8b88986489a1c8e1fc18c79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile32.png using Guid(cc401b6f8b88986489a1c8e1fc18c79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65682b715630156550a842ae75891c56') in 0.043153 seconds
+  Import took 0.050616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile7.png
+  artifactKey: Guid(2a7fd1fc79a9e05489c7797bb372daf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile7.png using Guid(2a7fd1fc79a9e05489c7797bb372daf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd2155d865e5421e4e7ba8808699ef9') in 0.046612 seconds
+  Import took 0.053081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile8.png
+  artifactKey: Guid(8241f2bcf90bc5f45841c61af3528aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile8.png using Guid(8241f2bcf90bc5f45841c61af3528aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14edcbc2b73156c566758a90331eb10b') in 0.045291 seconds
+  Import took 0.050733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile4.png
+  artifactKey: Guid(72d26c680bfd02349962aadb443bce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile4.png using Guid(72d26c680bfd02349962aadb443bce65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c874512937f893bab4fd59829e4bb830') in 0.044114 seconds
+  Import took 0.049345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile21.png
+  artifactKey: Guid(91c6285325f889046a51c61853551ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile21.png using Guid(91c6285325f889046a51c61853551ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a98b8daa71b1775686db91e7fd6e04f') in 0.041283 seconds
+  Import took 0.047827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile5.png
+  artifactKey: Guid(c9e11e326c435014881c33be83eaef7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile5.png using Guid(c9e11e326c435014881c33be83eaef7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b9f3c4953719ac79fd8b59a9845481') in 0.040375 seconds
+  Import took 0.046546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile28.png
+  artifactKey: Guid(b406aaa91456cf942926f449413654b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile28.png using Guid(b406aaa91456cf942926f449413654b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50cd740664935386a199209d0a5c3244') in 0.038836 seconds
+  Import took 0.044914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile14.png
+  artifactKey: Guid(2e556e91960a27f43b0ff7e50be016ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile14.png using Guid(2e556e91960a27f43b0ff7e50be016ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01990eee8b4c07a0a40cce1d1eae1d16') in 0.041212 seconds
+  Import took 0.046341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile12.png
+  artifactKey: Guid(097145cfb5469a646a1418b2535cbda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile12.png using Guid(097145cfb5469a646a1418b2535cbda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9081535a3956586b76cb533ec550524') in 0.040637 seconds
+  Import took 0.046702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0003_crystal7.png
+  artifactKey: Guid(767401add99aef2479296d167cbc4132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0003_crystal7.png using Guid(767401add99aef2479296d167cbc4132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df538c2884dd310338fce70f21b10f1b') in 0.051859 seconds
+  Import took 0.057575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile14.png
+  artifactKey: Guid(2e556e91960a27f43b0ff7e50be016ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile14.png using Guid(2e556e91960a27f43b0ff7e50be016ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01990eee8b4c07a0a40cce1d1eae1d16') in 0.041997 seconds
+  Import took 0.047420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0016_star4.png
+  artifactKey: Guid(4f541d2cb35111c43bb157e546df8a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0016_star4.png using Guid(4f541d2cb35111c43bb157e546df8a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e41a724391d9a79cdf6208ef31ec44') in 0.034624 seconds
+  Import took 0.039951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0058_heart8.png
+  artifactKey: Guid(0bbc6546e00c17745860c98b75e6cf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0058_heart8.png using Guid(0bbc6546e00c17745860c98b75e6cf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b1c476e79241ddb237261b94ab4d538') in 0.034508 seconds
+  Import took 0.039754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0021_speed15.png
+  artifactKey: Guid(357714526f00e0b40b57ac0bfa2072a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0021_speed15.png using Guid(357714526f00e0b40b57ac0bfa2072a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc507a0e9d3e3fa7510915b23044daeb') in 0.036008 seconds
+  Import took 0.041353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0035_speed1.png
+  artifactKey: Guid(31d57748f68c7a541a4d063993bfe6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0035_speed1.png using Guid(31d57748f68c7a541a4d063993bfe6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7985a0fbab98ac971a0f48cb8e3461') in 0.042228 seconds
+  Import took 0.047565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile29.png
+  artifactKey: Guid(08b90651fbbd79341bbcc14a0121f5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile29.png using Guid(08b90651fbbd79341bbcc14a0121f5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266da995cefe3ae407792726516eb212') in 0.041146 seconds
+  Import took 0.046308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0026_speed10.png
+  artifactKey: Guid(2b0bbb8c99e93ba4b97034843117889c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0026_speed10.png using Guid(2b0bbb8c99e93ba4b97034843117889c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84421bb595d43041ecd83213e6ecc8a') in 0.037646 seconds
+  Import took 0.043429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile22.png
+  artifactKey: Guid(91f775049cb7a50439a17103b8d5f179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/tile22.png using Guid(91f775049cb7a50439a17103b8d5f179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966f9227368450dab24e98f84f0634f8') in 0.042091 seconds
+  Import took 0.047260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0031_speed5.png
+  artifactKey: Guid(b005c2f5da1ef3140ac339ae859cddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0031_speed5.png using Guid(b005c2f5da1ef3140ac339ae859cddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f56d951c80759ed7db457744260e67') in 0.036050 seconds
+  Import took 0.041689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000591 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0036_coin10.png
+  artifactKey: Guid(47991ac2fa78c254894fabb8f23dbb43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Items/000_0036_coin10.png using Guid(47991ac2fa78c254894fabb8f23dbb43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b7c4c82019d66de3d0f51606cc0bf9') in 0.037472 seconds
+  Import took 0.042530 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2310.
+Total: 2.802800 ms (FindLiveObjects: 0.219300 ms CreateObjectMapping: 0.075600 ms MarkObjects: 2.365100 ms  DeleteObjects: 0.141600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 3.248000 ms (FindLiveObjects: 0.226000 ms CreateObjectMapping: 0.087800 ms MarkObjects: 2.757600 ms  DeleteObjects: 0.173600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 685.002173 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57ab4b45bccbdc4d1a09dab346cd670') in 0.098337 seconds
+  Import took 0.103289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13632.730031 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a301e5ea366a347d942e678dafce90') in 0.086104 seconds
+  Import took 0.133792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.381076 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c079c5d05bc6cbdc1fdcddf6ffa82235') in 0.025355 seconds
+  Import took 0.028132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.990124 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d9bae5fedab749c49bc01ec9c25881') in 0.021445 seconds
+  Import took 0.024230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.411652 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad0dab3c119523cdaf4ece0186e04eb') in 0.020430 seconds
+  Import took 0.023138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.017583 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04a50fca7bd799fcf0d40aa858aecb8') in 0.023651 seconds
+  Import took 0.027011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.020385 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81514e56185402d7563d7e94d3f0c4a5') in 0.023672 seconds
+  Import took 0.026831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.301115 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5594b8971bdf8e33516a9770cf7b84e5') in 0.028698 seconds
+  Import took 0.033008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.701910 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86292f0747b40e795fdfed71ff8f0078') in 0.021176 seconds
+  Import took 0.024039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.008615 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4914105dba81cb6782b6e9df914ef2') in 0.019265 seconds
+  Import took 0.022095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.657821 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c080f8126d2e428e4c0982844281bf5a') in 0.020376 seconds
+  Import took 0.023317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.587930 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352ecede0ed52a369f7d0f7b99790075') in 0.019164 seconds
+  Import took 0.022419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.315279 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f82965b5adc86fccf9bff30f62700d') in 0.029491 seconds
+  Import took 0.032904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.668618 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33074509275ac9f2ec9a33bb9ccd9643') in 0.026903 seconds
+  Import took 0.030991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.806450 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee8f71848fec9fb61078f6c183e16fb') in 0.025191 seconds
+  Import took 0.028024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.859735 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2d211562efa73b64dfdefcc01cf4f6') in 0.023562 seconds
+  Import took 0.026822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.442422 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f669107ca22f92583a2929cb6bdea722') in 0.023568 seconds
+  Import took 0.026346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.647101 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/GameObject.prefab
+  artifactKey: Guid(0c99e10984d565e49950c21a0ba61f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/GameObject.prefab using Guid(0c99e10984d565e49950c21a0ba61f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f50268a814bc0927920c22c63b3cb9a') in 0.028198 seconds
+  Import took 0.031579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000766 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/GameObject.prefab
+  artifactKey: Guid(0c99e10984d565e49950c21a0ba61f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/GameObject.prefab using Guid(0c99e10984d565e49950c21a0ba61f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f50268a814bc0927920c22c63b3cb9a') in 0.024549 seconds
+  Import took 0.027874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.764534 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21a14937f9d7059180c63782195bf1a') in 0.026066 seconds
+  Import took 0.029930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000692 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21a14937f9d7059180c63782195bf1a') in 0.025009 seconds
+  Import took 0.028264 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001670 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.375 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 3.536000 ms (FindLiveObjects: 0.301200 ms CreateObjectMapping: 0.131800 ms MarkObjects: 2.924300 ms  DeleteObjects: 0.176400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.305 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.4 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 3.064100 ms (FindLiveObjects: 0.252600 ms CreateObjectMapping: 0.097600 ms MarkObjects: 2.547200 ms  DeleteObjects: 0.164900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001662 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.312 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.4 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 3.309700 ms (FindLiveObjects: 0.423600 ms CreateObjectMapping: 0.158100 ms MarkObjects: 2.554300 ms  DeleteObjects: 0.172000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001557 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.077 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.4 MB.
+System memory in use after: 111.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 2.755700 ms (FindLiveObjects: 0.229700 ms CreateObjectMapping: 0.083400 ms MarkObjects: 2.301200 ms  DeleteObjects: 0.140200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 460.106451 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab
+  artifactKey: Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_rock/DungeonLand01.prefab using Guid(b10a6c16105ebd148be56f80da5f8d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf656ccda2451ead63d0ac696709c191') in 0.086192 seconds
+  Import took 0.089981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 197.950418 seconds.
+  path: Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/LavaLand01.prefab
+  artifactKey: Guid(7b7c73c0cda46dd48b3c1b5c22cf8556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple 2D Platformer BE2/Sprites/Dungeon/Tiles_lava/LavaLand01.prefab using Guid(7b7c73c0cda46dd48b3c1b5c22cf8556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d4b4b5a7311fe45a33b6704c8533c3') in 0.027287 seconds
+  Import took 0.031359 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.399 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.4 MB.
+System memory in use after: 111.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 4.382200 ms (FindLiveObjects: 0.364600 ms CreateObjectMapping: 0.176300 ms MarkObjects: 3.603200 ms  DeleteObjects: 0.235500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
